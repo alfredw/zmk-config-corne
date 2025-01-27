@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: MIT
  */
 
- #include "../knucklehead/base.dtsi"
+#include "../knucklehead/base.dtsi"
